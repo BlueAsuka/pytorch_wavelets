@@ -1,0 +1,6 @@
+Collecting PyWavelets
+  Using cached pywavelets-1.7.0-cp311-cp311-win_amd64.whl.metadata (9.0 kB)
+Requirement already satisfied: numpy<3,>=1.23 in c:\users\haoxuan\miniconda3\envs\raven\lib\site-packages (from PyWavelets) (2.0.1)
+Using cached pywavelets-1.7.0-cp311-cp311-win_amd64.whl (4.3 MB)
+Installing collected packages: PyWavelets
+Successfully installed PyWavelets-1.7.0
